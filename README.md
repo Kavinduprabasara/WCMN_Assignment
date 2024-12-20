@@ -69,7 +69,7 @@ This app follows the MVVM (Model-View-ViewModel) architecture pattern:
 
 The app uses the following API to fetch jokes:
 
-- [Official Joke API](https://official-joke-api.appspot.com/random_joke)
+- [Official Joke API](https://v2.jokeapi.dev/joke/Any?amount=10)
 
 ## Project Structure
 
@@ -108,10 +108,6 @@ Contributions are welcome! Follow these steps to contribute:
    git push origin feature/your-feature-name
    ```
 5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
