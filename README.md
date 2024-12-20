@@ -116,6 +116,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 - **Developer**: Kavindu Wijegunasekara
-- **Email**: kavindu@example.com
+- **Email**: kavinduvijegunasekara@gmail.com
 
 Feel free to reach out for support, feedback, or collaboration!
